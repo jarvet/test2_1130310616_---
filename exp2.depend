@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1405669658 source:f:\c++\exp2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"StreamBuffer.h"
+
+1405608808 f:\c++\exp2\streambuffer.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"StreamBuffer.h"
+
+1405669425 f:\c++\exp2\streambuffer.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<queue>
+	<utility>
+
+1405671557 source:f:\c++\exp2\streambuffer.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"StreamBuffer.h"
+
+1405671686 source:f:\c++\test2_1130310616_уе╧зн║\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"StreamBuffer.h"
+
+1405669425 f:\c++\test2_1130310616_уе╧зн║\streambuffer.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<queue>
+	<utility>
+
+1405671557 source:f:\c++\test2_1130310616_уе╧зн║\streambuffer.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"StreamBuffer.h"
+
